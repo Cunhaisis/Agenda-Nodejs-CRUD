@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cunhaisis/Agenda-de-Contatos.git"
+    "url": "git+https://github.com/Cunhaisis/Agenda-Nodejs-CRUD.git"
   },
   "author": "Isis Cunha",
   "license": "ISC",
